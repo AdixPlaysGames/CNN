@@ -1,0 +1,6 @@
+# Virtual Environment
+venv/
+.env
+**/output_samples/
+**/test_samples/
+**/val_samples/
