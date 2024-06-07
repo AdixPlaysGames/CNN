@@ -1,6 +1,3 @@
-# CNN
-Convolutional neural network
-
 # First Part of a Project: 
 
 #### Data Preparation
