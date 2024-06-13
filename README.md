@@ -1,4 +1,4 @@
-# First Part of a Project: 
+# First Part of the Project: 
 
 #### Data Preparation
 
@@ -18,7 +18,7 @@
 
 **Experiment 2 Model**: modelbest.pth
 
-# Second Part of a Project: 
+# Second Part of the Project: 
 # Projekt: Segmentacja Obrazów i Modelowanie RNA
 
 ## 1. U-Net
